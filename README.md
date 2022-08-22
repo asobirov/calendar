@@ -1,13 +1,13 @@
 # TODO:
 
 ### Calendar UI
-[] Always render 6 weeks (some months do not fit in 5 rows)
+[ ] Always render 6 weeks (some months do not fit in 5 rows)
 
 ### Other
-[] Role-based auth or smth
-[] Different UI for different roles
-[] smth else (i forgor)
+[ ] Role-based auth or smth
+[ ] Different UI for different roles
+[ ] smth else (i forgor)
 
 Sometime later or sometime sooner:
-[] Fix ESLint
-[] Move calendar + portfolio into a monorepo (turborepo), perhaps
+[ ] Fix ESLint
+[ ] Move calendar + portfolio into a monorepo (turborepo), perhaps
