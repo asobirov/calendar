@@ -2,6 +2,7 @@
 
 ### Calendar UI
 - [ ] Always render 6 weeks (some months do not fit in 5 rows)
+- [ ] Animation when switching months
 
 ### Other
 - [ ] Role-based auth or smth
