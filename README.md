@@ -4,5 +4,6 @@ TODO:
 [] Different UI for different roles
 [] smth else (i forgor)
 
-Sometime later:
-[] Move calendar + portfolio into a monorepo (turborepo)
+Sometime later or sometime sooner:
+[] Fix ESLint
+[] Move calendar + portfolio into a monorepo (turborepo), perhaps
