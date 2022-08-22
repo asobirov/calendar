@@ -1,5 +1,9 @@
-TODO:
-[] Calendar UI
+# TODO:
+
+### Calendar UI
+[] Always render 6 weeks (some months do not fit in 5 rows)
+
+### Other
 [] Role-based auth or smth
 [] Different UI for different roles
 [] smth else (i forgor)
