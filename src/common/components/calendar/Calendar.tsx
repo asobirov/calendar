@@ -15,8 +15,12 @@ export const Calendar: React.FC = () => {
     const startOfActiveMonth = parse(activeMonth, 'MMM-yyyy', new Date());
 
     const days = eachDayOfInterval({
-        start: startOfWeek(startOfActiveMonth),
-        end: endOfWeek(endOfMonth(startOfActiveMonth))
+        start: startOfWeek(startOfActiveMonth, {
+            weekStartsOn: 1
+        }),
+        end: endOfWeek(endOfMonth(startOfActiveMonth), {
+            weekStartsOn: 1
+        })
     });
 
     const handlePrevMonth = () => {
